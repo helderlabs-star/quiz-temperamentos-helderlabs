@@ -1,0 +1,7 @@
+body{background:#f6f4ef;color:#222;font-family:Arial;margin:0}
+#app{max-width:480px;margin:auto;height:100vh;display:flex;flex-direction:column}
+header{padding:20px;text-align:center;background:#e8e6df}
+main{flex:1;padding:20px}
+.btn{width:100%;padding:16px;margin:8px 0;background:#fff;border:1px solid #ccc;border-radius:10px;text-align:left;font-size:16px}
+.btn:hover{background:#f0f0f0}
+footer{text-align:center;font-size:12px;padding:10px;background:#e8e6df}
